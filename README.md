@@ -1,2 +1,0 @@
-# MyHero
-My First Thing
